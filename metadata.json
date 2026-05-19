@@ -1,0 +1,6 @@
+{
+  "name": "SMNB - Matrix Activation Suite",
+  "description": "A professional Cyber-Security Dashboard concept UI for system deployment tools, featuring a simulated terminal and glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
